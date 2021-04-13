@@ -34,7 +34,7 @@
   </div>
 </template>
 
-<style></style>
+<style src="./styles.css"></style>
 
 <script>
 import axios from "axios"
@@ -64,4 +64,3 @@ export default {
 };
 </script>
 
-//color name style price capacity
